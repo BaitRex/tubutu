@@ -12,7 +12,7 @@ function Game1() {
     let wordsCount = 1;
     const speed = useRef(0.02);
 
-    const diff = [0.03,0.04,0.07,0.11,0.17] // 0 1 2 3 4
+    const diff = [0.03,0.04,0.06,0.6,0.6] // 0 1 2 3 4
 
     const padding = 40;
 
